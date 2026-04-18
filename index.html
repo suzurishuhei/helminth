@@ -281,7 +281,7 @@
         .progress-fill {
             background: linear-gradient(135deg, #2ed573 0%, #1e90ff 100%);
             height: 100%;
-            width: 83%;
+            width: 67%;
             display: flex;
             align-items: center;
             justify-content: center;
@@ -375,13 +375,13 @@
         <header>
             <h1>🐛 Veterinary Helminthology</h1>
             <p>Complete Course Notes - DVM 4th Semester | Dr. Ghulam Murtaza</p>
-            <p>Session 2024-2029 | Group B | Room 76</p>
+            <p>Session 2024-2029 | Group A+B</p>
         </header>
 
         <div class="success-box">
-            <strong>📊 Course Progress:</strong> 5 out of 6 Lectures Completed (83%)
+            <strong>📊 Course Progress:</strong> 10 out of 15 Lectures Completed (67%)
             <div class="progress-bar">
-                <div class="progress-fill">83% COMPLETE</div>
+                <div class="progress-fill">67% COMPLETE</div>
             </div>
         </div>
 
@@ -391,6 +391,16 @@
             <a href="#lec3" onclick="showLecture(3)">Lec #3</a>
             <a href="#lec4" onclick="showLecture(4)">Lec #4</a>
             <a href="#lec5" onclick="showLecture(5)">Lec #5</a>
+            <span style="padding: 12px 24px; background: #ccc; color: #666; border-radius: 25px; font-weight: bold; cursor: not-allowed;">Lec #6</span>
+            <span style="padding: 12px 24px; background: #ccc; color: #666; border-radius: 25px; font-weight: bold; cursor: not-allowed;">Lec #7</span>
+            <span style="padding: 12px 24px; background: #ccc; color: #666; border-radius: 25px; font-weight: bold; cursor: not-allowed;">Lec #8</span>
+            <span style="padding: 12px 24px; background: #ccc; color: #666; border-radius: 25px; font-weight: bold; cursor: not-allowed;">Lec #9</span>
+            <span style="padding: 12px 24px; background: #ccc; color: #666; border-radius: 25px; font-weight: bold; cursor: not-allowed;">Lec #10</span>
+            <a href="#lec11" onclick="showLecture(11)">Lec #11</a>
+            <a href="#lec12" onclick="showLecture(12)">Lec #12</a>
+            <a href="#lec13" onclick="showLecture(13)">Lec #13</a>
+            <a href="#lec14" onclick="showLecture(14)">Lec #14</a>
+            <a href="#lec15" onclick="showLecture(15)">Lec #15</a>
             <a href="#summary" onclick="showSummary()">Summary</a>
         </nav>
 
@@ -1465,11 +1475,935 @@ Back to Dog [via eating infected CNS tissue]
             </div>
         </section>
 
+        <!-- LECTURE #6 (Not Available) -->
+        <section id="lec6" class="lecture-section">
+            <div class="lecture-header" style="background: linear-gradient(135deg, #95a5a6 0%, #7f8c8d 100%); cursor: not-allowed;">
+                <h2>📖 Lecture #6: Coming Soon</h2>
+                <div class="meta">Trematoda - Additional Topics</div>
+            </div>
+            <div class="lecture-content" style="display: block;">
+                <div class="warning-box" style="background: linear-gradient(135deg, #95a5a6 0%, #7f8c8d 100%);">
+                    <strong>⏳ This lecture is not available yet.</strong>
+                </div>
+            </div>
+        </section>
+
+        <!-- LECTURE #7 (Not Available) -->
+        <section id="lec7" class="lecture-section">
+            <div class="lecture-header" style="background: linear-gradient(135deg, #95a5a6 0%, #7f8c8d 100%); cursor: not-allowed;">
+                <h2>📖 Lecture #7: Coming Soon</h2>
+                <div class="meta">Trematoda - Additional Topics</div>
+            </div>
+            <div class="lecture-content" style="display: block;">
+                <div class="warning-box" style="background: linear-gradient(135deg, #95a5a6 0%, #7f8c8d 100%);">
+                    <strong>⏳ This lecture is not available yet.</strong>
+                </div>
+            </div>
+        </section>
+
+        <!-- LECTURE #8 (Not Available) -->
+        <section id="lec8" class="lecture-section">
+            <div class="lecture-header" style="background: linear-gradient(135deg, #95a5a6 0%, #7f8c8d 100%); cursor: not-allowed;">
+                <h2>📖 Lecture #8: Coming Soon</h2>
+                <div class="meta">Trematoda - Additional Topics</div>
+            </div>
+            <div class="lecture-content" style="display: block;">
+                <div class="warning-box" style="background: linear-gradient(135deg, #95a5a6 0%, #7f8c8d 100%);">
+                    <strong>⏳ This lecture is not available yet.</strong>
+                </div>
+            </div>
+        </section>
+
+        <!-- LECTURE #9 (Not Available) -->
+        <section id="lec9" class="lecture-section">
+            <div class="lecture-header" style="background: linear-gradient(135deg, #95a5a6 0%, #7f8c8d 100%); cursor: not-allowed;">
+                <h2>📖 Lecture #9: Coming Soon</h2>
+                <div class="meta">Nematodes - Introduction</div>
+            </div>
+            <div class="lecture-content" style="display: block;">
+                <div class="warning-box" style="background: linear-gradient(135deg, #95a5a6 0%, #7f8c8d 100%);">
+                    <strong>⏳ This lecture is not available yet.</strong>
+                </div>
+            </div>
+        </section>
+
+        <!-- LECTURE #10 (Not Available) -->
+        <section id="lec10" class="lecture-section">
+            <div class="lecture-header" style="background: linear-gradient(135deg, #95a5a6 0%, #7f8c8d 100%); cursor: not-allowed;">
+                <h2>📖 Lecture #10: Coming Soon</h2>
+                <div class="meta">Nematodes - Key Parasites</div>
+            </div>
+            <div class="lecture-content" style="display: block;">
+                <div class="warning-box" style="background: linear-gradient(135deg, #95a5a6 0%, #7f8c8d 100%);">
+                    <strong>⏳ This lecture is not available yet.</strong>
+                </div>
+            </div>
+        </section>
+
+        <!-- LECTURE #11 -->
+        <section id="lec11" class="lecture-section">
+            <div class="lecture-header" onclick="toggleLecture(11)">
+                <h2>📖 Lecture #11: Paramphistomatidae (Rumen Flukes)</h2>
+                <div class="meta">Date: April 06, 2026 | Family Paramphistomatidae | Zoom Video Communications</div>
+            </div>
+            <div class="lecture-content" id="content-11">
+                
+                <div class="highlight-box">
+                    <strong>🎯 PARAMPHISTOMATIDAE:</strong> Rumen flukes of ruminants. Conical shape (NOT leaf-like). Adults in forestomach, immature stages in duodenum. Water snails as intermediate hosts.
+                </div>
+
+                <h3>1. GENERAL CHARACTERISTICS</h3>
+                <ul>
+                    <li>Parasites mainly of ruminants (cattle, sheep, goats)</li>
+                    <li>Adults found in forestomach (rumen & reticulum)</li>
+                    <li>Some species occur in intestine of ruminants, pigs, horses</li>
+                    <li>Shape: Conical (NOT leaf-like like other trematodes)</li>
+                    <li>Intermediate host: Always water snails</li>
+                    <li>Most common genus: Paramphistomum</li>
+                </ul>
+
+                <h3>2. GENUS: PARAMPHISTOMUM</h3>
+                
+                <h4>Hosts</h4>
+                <ul>
+                    <li><strong>Definitive host:</strong> Ruminants</li>
+                    <li><strong>Intermediate host:</strong> Water snails: Planorbis, Bulinus</li>
+                </ul>
+
+                <h4>Site in Host</h4>
+                <ul>
+                    <li><strong>Adults:</strong> Rumen & Reticulum</li>
+                    <li><strong>Immature stages:</strong> Duodenum</li>
+                </ul>
+
+                <h3>3. IMPORTANT SPECIES</h3>
+                <ul>
+                    <li>Paramphistomum cervi</li>
+                    <li>Paramphistomum microbothrium</li>
+                </ul>
+
+                <h3>4. DISTRIBUTION</h3>
+                <ul>
+                    <li>Worldwide</li>
+                    <li>More important in: Tropics & Subtropics</li>
+                    <li>Less significant in: Europe & America</li>
+                </ul>
+
+                <h3>5. IDENTIFICATION</h3>
+                
+                <h4>Gross Features</h4>
+                <ul>
+                    <li>Size: ~ 1 cm</li>
+                    <li>Shape: Conical, maggot-like</li>
+                    <li>Suckers: One at tip, one at base</li>
+                    <li>Larvae: < 5 mm, pink in color</li>
+                </ul>
+
+                <h4>Microscopic Features</h4>
+                <ul>
+                    <li>Eggs: Large, operculated</li>
+                    <li>Similar to Fasciola hepatica</li>
+                    <li>Colorless (important difference)</li>
+                </ul>
+
+                <h3>6. LIFE CYCLE</h3>
+                <ol>
+                    <li>Eggs passed in feces</li>
+                    <li>Eggs reach water → hatch into miracidia</li>
+                    <li>Miracidia infect water snails</li>
+                    <li>Inside snail: Sporocyst → Redia → Cercaria</li>
+                    <li>Cercariae leave snail → encyst on vegetation → form metacercariae</li>
+                    <li>Ruminant ingests metacercariae with grass</li>
+                     <li>Excyst in duodenum</li>
+                    <li>Immature flukes attach & feed (≈ 6 weeks)</li>
+                    <li>Migrate to rumen & reticulum</li>
+                    <li>Mature into adults → start egg production</li>
+                </ol>
+
+                <h4>Important Points</h4>
+                <ul>
+                    <li>Snail stage duration: ~ 4 weeks at 26–30°C</li>
+                    <li>Prepatent period: 7–10 weeks</li>
+                    <li>Development occurs entirely in: Alimentary tract</li>
+                </ul>
+
+                <h3>7. PATHOGENESIS</h3>
+                <ul>
+                    <li>Disease caused mainly by: Immature flukes (duodenum)</li>
+                    <li>Feeding type: Plug feeders</li>
+                    <li>Effects: Severe mucosal damage: Erosion, Oedema, Haemorrhage, Ulceration</li>
+                    <li>Adults: Usually non-pathogenic</li>
+                </ul>
+
+                <h3>8. CLINICAL SIGNS</h3>
+                <ul>
+                    <li>Severe diarrhoea</li>
+                    <li>Anorexia</li>
+                    <li>In cattle: Rectal haemorrhage</li>
+                    <li>Mortality: Can reach 90% in acute cases ⚠️</li>
+                </ul>
+
+                <h3>9. HOST IMMUNITY</h3>
+                <ul>
+                    <li><strong>Cattle:</strong> Develop good immunity; Adults act as reservoirs</li>
+                    <li><strong>Sheep & goats:</strong> Highly susceptible throughout life</li>
+                </ul>
+
+                <h3>10. DIAGNOSIS</h3>
+                <ul>
+                    <li>Based on: Clinical signs in young animals, Grazing history near water</li>
+                    <li>Fecal exam: Not useful (prepatent stage)</li>
+                    <li>Confirmation: Postmortem: Immature flukes in duodenum</li>
+                </ul>
+
+                <h3>11. TREATMENT</h3>
+                <ul>
+                    <li>Drugs of choice: Resorantel, Oxyclozanide</li>
+                </ul>
+
+                <h3>12. CONTROL</h3>
+                <ul>
+                    <li>Avoid natural water sources</li>
+                    <li>Control snails: Molluscicides</li>
+                </ul>
+
+                <h3>13. OTHER IMPORTANT PARAMPHISTOMES</h3>
+                
+                <h4>Forestomach Flukes</h4>
+                <ul>
+                    <li>Cotylophoron</li>
+                    <li>Ceylonocotyle
+                        <ul>
+                            <li>Important in: Asia, Australasia, Southern USA</li>
+                        </ul>
+                    </li>
+                </ul>
+
+                <h4>Intestinal Flukes</h4>
+                <ul>
+                    <li>Gastrodiscus
+                        <ul>
+                            <li>In equines (tropics)</li>
+                        </ul>
+                    </li>
+                    <li>Homologaster
+                        <ul>
+                            <li>In ruminants (Asia)</li>
+                        </ul>
+                    </li>
+                </ul>
+
+                <h4>Bile Duct Fluke</h4>
+                <ul>
+                    <li>Gigantocotyle
+                        <ul>
+                            <li>In buffalo (Middle & Far East)</li>
+                        </ul>
+                    </li>
+                </ul>
+
+            </div>
+        </section>
+
+        <!-- LECTURE #7 -->
+        <section id="lec12" class="lecture-section">
+            <div class="lecture-header" onclick="toggleLecture(12)">
+                <h2>📖 Lecture #12: Opisthorchiidae (Liver Flukes)</h2>
+                <div class="meta">Date: April 08, 2026 | Family Opisthorchiidae | Zoom Video Communications</div>
+            </div>
+            <div class="lecture-content" id="content-12">
+                
+                <div class="highlight-box">
+                    <strong>🎯 OPISTHORCHIIDAE:</strong> Liver flukes requiring two intermediate hosts. First: aquatic snails. Second: freshwater fish. Infective stage: metacercariae in fish. Adults in bile ducts.
+                </div>
+
+                <h3>1. GENERAL CHARACTERISTICS</h3>
+                <ul>
+                    <li>Digenetic trematodes requiring two intermediate hosts:
+                        <ul>
+                            <li>First intermediate host: aquatic snails</li>
+                            <li>Second intermediate host: freshwater fish</li>
+                        </ul>
+                    </li>
+                    <li>Infective stage: metacercariae encysted in fish tissues</li>
+                    <li>Final hosts: fish-eating mammals (including humans)</li>
+                    <li>Adult parasites inhabit the bile ducts</li>
+                </ul>
+
+                <h3>2. IMPORTANT GENUS: OPISTHORCHIS</h3>
+                <ul>
+                    <li>Morphology:
+                        <ul>
+                            <li>Small, lanceolate (elongated leaf-shaped) flukes</li>
+                            <li>Grossly resemble Dicrocoelium</li>
+                        </ul>
+                    </li>
+                </ul>
+
+                <h3>3. IMPORTANT SPECIES AND DISTRIBUTION</h3>
+                
+                <h4>Opisthorchis sinensis (Clonorchis sinensis) Chinese liver fluke</h4>
+                <ul>
+                    <li>Primary host: humans</li>
+                    <li>Secondary hosts: dogs and cats</li>
+                    <li>Distribution: Asia (including Indian subcontinent and East Asia)</li>
+                </ul>
+
+                <h4>Opisthorchis viverrini</h4>
+                <ul>
+                    <li>Primary host: civet cat</li>
+                    <li>Main host: humans</li>
+                    <li>Reservoir hosts: dogs and cats</li>
+                    <li>Distribution: Far East</li>
+                </ul>
+
+                <h4>Opisthorchis tenuicollis (syn. O. felineus)</h4>
+                <ul>
+                    <li>Primary hosts: cats (main), dogs (less common)</li>
+                    <li>Occasional host: humans</li>
+                    <li>Distribution:
+                        <ul>
+                            <li>Eastern Europe</li>
+                            <li>Middle East</li>
+                            <li>Asia Minor</li>
+                            <li>Russia</li>
+                            <li>Reported in Canada</li>
+                        </ul>
+                    </li>
+                </ul>
+
+                <h3>4. TRANSMISSION</h3>
+                <ul>
+                    <li>Infection occurs via:
+                        <ul>
+                            <li>Consumption of raw or undercooked fish containing metacercariae</li>
+                        </ul>
+                    </li>
+                    <li>Juvenile flukes:
+                        <ul>
+                            <li>Migrate to the liver via bile ducts</li>
+                        </ul>
+                    </li>
+                </ul>
+
+                <h3>5. PATHOGENESIS AND CLINICAL SIGNS</h3>
+                <ul>
+                    <li>Most infections are subclinical (asymptomatic)</li>
+                    <li>Heavy infections lead to:
+                        <ul>
+                            <li>Mechanical damage by cuticular spines</li>
+                            <li>Irritation and abrasion of bile ducts</li>
+                        </ul>
+                    </li>
+                    <li>Pathological changes:
+                        <ul>
+                            <li>Bile duct thickening</li>
+                            <li>Papilloma formation</li>
+                            <li>Cyst formation containing flukes</li>
+                        </ul>
+                    </li>
+                    <li>Clinical signs:
+                        <ul>
+                            <li>Emaciation</li>
+                            <li>Jaundice</li>
+                            <li>Ascites</li>
+                            <li>Enlarged, nodular liver (palpable)</li>
+                        </ul>
+                    </li>
+                </ul>
+
+                <h3>6. CONTROL</h3>
+                <ul>
+                    <li>Thorough cooking of fish</li>
+                    <li>Avoid consumption of raw or undercooked fish</li>
+                </ul>
+
+                <h3>7. GENUS 2: METORCHIS</h3>
+                <ul>
+                    <li>Hosts:
+                        <ul>
+                            <li>Mainly sledge dogs and hunting dogs</li>
+                        </ul>
+                    </li>
+                    <li>Distribution:
+                        <ul>
+                            <li>Arctic and subarctic regions (Europe, Asia, North America)</li>
+                            <li>Also reported in former Yugoslavia</li>
+                        </ul>
+                    </li>
+                    <li>Pathogenesis:
+                        <ul>
+                            <li>Similar to opisthorchosis</li>
+                        </ul>
+                    </li>
+                    <li>Reservoir:
+                        <ul>
+                            <li>Wild fish-eating carnivores</li>
+                        </ul>
+                    </li>
+                </ul>
+
+            </div>
+        </section>
+
+        <!-- LECTURE #8 -->
+        <section id="lec13" class="lecture-section">
+            <div class="lecture-header" onclick="toggleLecture(13)">
+                <h2>📖 Lecture #13: Troglotrematidae (Lung Flukes)</h2>
+                <div class="meta">Date: April 09, 2026 | Family Troglotrematidae | Zoom Video Communications</div>
+            </div>
+            <div class="lecture-content" id="content-13">
+                
+                <div class="highlight-box">
+                    <strong>🎯 TROGLOTREMATIDAE:</strong> Family containing lung flukes (Paragonimus) and intestinal flukes (Nanophyetus). Two intermediate hosts required. Zoonotic importance.
+                </div>
+
+                <h3>GENUS 1: PARAGONIMUS (LUNG FLUKE)</h3>
+
+                <h4>General Characteristics</h4>
+                <ul>
+                    <li>Common name: Lung fluke</li>
+                    <li>Hosts:
+                        <ul>
+                            <li>Cats, dogs, carnivores, humans</li>
+                        </ul>
+                    </li>
+                    <li>Distribution:
+                        <ul>
+                            <li>North America and Asia</li>
+                        </ul>
+                    </li>
+                </ul>
+
+                <h4>Life Cycle</h4>
+                <ul>
+                    <li>First intermediate host: aquatic snail</li>
+                    <li>Second intermediate host: crustaceans (crayfish or freshwater crabs)</li>
+                    <li>Infection:
+                        <ul>
+                            <li>Ingestion of metacercariae in crustaceans</li>
+                        </ul>
+                    </li>
+                </ul>
+
+                <h4>Migration and Localization</h4>
+                <ul>
+                    <li>Juvenile flukes:
+                        <ul>
+                            <li>Migrate to the lungs</li>
+                        </ul>
+                    </li>
+                    <li>Adult flukes:
+                        <ul>
+                            <li>Encapsulated in fibrous cysts</li>
+                            <li>Cysts connected to bronchioles via fistulae</li>
+                            <li>Allows egg release into respiratory tract</li>
+                        </ul>
+                    </li>
+                </ul>
+
+                <h4>Clinical Importance</h4>
+                <ul>
+                    <li>Pulmonary signs:
+                        <ul>
+                            <li>Rare in dogs and cats</li>
+                        </ul>
+                    </li>
+                    <li>Veterinary importance:
+                        <ul>
+                            <li>Animals act as reservoir hosts for human infection</li>
+                        </ul>
+                    </li>
+                </ul>
+
+                <h3>GENUS 2: NANOPHYETUS</h3>
+
+                <h4>General Characteristics</h4>
+                <ul>
+                    <li>Habitat: small intestine</li>
+                    <li>Hosts:
+                        <ul>
+                            <li>Dogs, mink, and other fish-eating mammals</li>
+                        </ul>
+                    </li>
+                    <li>Distribution:
+                        <ul>
+                            <li>Northwestern USA and Siberia</li>
+                        </ul>
+                    </li>
+                </ul>
+
+                <h4>Medical/Veterinary Importance</h4>
+                <ul>
+                    <li>Acts as a vector of rickettsial organism:
+                        <ul>
+                            <li>Neorickettsia helminthoeca</li>
+                        </ul>
+                    </li>
+                    <li>Causes:
+                        <ul>
+                            <li>Salmon poisoning disease in dogs</li>
+                            <li>Severe hemorrhagic enteritis</li>
+                        </ul>
+                    </li>
+                </ul>
+
+                <h4>Life Cycle</h4>
+                <ul>
+                    <li>First intermediate host: aquatic snail</li>
+                    <li>Second intermediate host: fish (especially salmonids)</li>
+                    <li>Cercariae:
+                        <ul>
+                            <li>Localize in kidney of fish</li>
+                        </ul>
+                    </li>
+                    <li>Infection:
+                        <ul>
+                            <li>Dog ingests infected fish containing:
+                                <ul>
+                                    <li>Metacercariae</li>
+                                    <li>Associated rickettsial organism</li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+
+                <h4>Transmission of Rickettsia</h4>
+                <ul>
+                    <li>Presumed pathway:
+                        <ul>
+                            <li>Fluke egg → snail → fish → final host</li>
+                        </ul>
+                    </li>
+                    <li>Rickettsia transmitted along with parasite life cycle</li>
+</ul>
+
+            </div>
+        </section>
+
+        <!-- LECTURE #14 -->
+        <section id="lec14" class="lecture-section">
+            <div class="lecture-header" onclick="toggleLecture(14)">
+                <h2>📖 Lecture #14: Introduction to Nematodes</h2>
+                <div class="meta">Family Various | Introduction to Roundworms | Zoom Video Communications</div>
+            </div>
+            <div class="lecture-content" id="content-14">
+                
+                <div class="highlight-box">
+                    <strong>🎯 NEMATODES:</strong> Roundworms - most important helminth parasites of domestic animals. Cause significant economic losses in livestock. Belong to Phylum Nematoda.
+                </div>
+
+                <h3>1. INTRODUCTION</h3>
+                <p>Nematodes, commonly known as roundworms, are among the most important helminth parasites affecting domestic animals. They cause significant economic losses in livestock production due to reduced growth, poor feed conversion, decreased milk and meat yield, reproductive failure, and mortality. In companion animals, they also pose serious zoonotic risks.</p>
+                
+                <p>Nematodes belong to:</p>
+                <ul>
+                    <li>Kingdom: Animalia</li>
+                    <li>Phylum: Nematoda</li>
+                </ul>
+                
+                <p>They are widely distributed and infect almost all domestic species including cattle, sheep, goats, horses, poultry, dogs, and cats.</p>
+
+                <h3>2. GENERAL MORPHOLOGICAL CHARACTERISTICS</h3>
+                <p>Nematodes have distinct structural features:</p>
+                <ul>
+                    <li>Cylindrical, elongated, unsegmented body</li>
+                    <li>Bilaterally symmetrical</li>
+                    <li>Tapered at both ends</li>
+                    <li>Covered by a tough cuticle</li>
+                    <li>Complete digestive tract (mouth → anus)</li>
+                    <li>Separate sexes (dioecious)</li>
+                    <li>Males usually smaller than females</li>
+                    <li>Males often possess copulatory spicules</li>
+                </ul>
+
+                <h4>Body Wall Structure</h4>
+                <ul>
+                    <li>Cuticle</li>
+                    <li>Hypodermis</li>
+                    <li>Muscle layer</li>
+                </ul>
+                
+                <p>They possess a pseudocoelom, which acts as a hydrostatic skeleton.</p>
+
+                <h3>3. CLASSIFICATION OF VETERINARY NEMATODES</h3>
+                <p>Veterinary nematodes are broadly classified based on habitat and life cycle:</p>
+                
+                <h4>A. Gastrointestinal Nematodes (GIN)</h4>
+                <ul>
+                    <li>Haemonchus contortus – Sheep and goats</li>
+                    <li>Ostertagia ostertagi – Cattle</li>
+                    <li>Toxocara canis – Dogs</li>
+                </ul>
+                
+                <h4>B. Lungworms</h4>
+                <ul>
+                    <li>Dictyocaulus viviparus</li>
+                    <li>Metastrongylus elongatus</li>
+                </ul>
+                
+                <h4>C. Tissue and Blood Nematodes</h4>
+                <ul>
+                    <li>Dirofilaria immitis</li>
+                    <li>Onchocerca volvulus</li>
+                </ul>
+                
+                <h4>D. Poultry Nematodes</h4>
+                <ul>
+                    <li>Ascaridia galli</li>
+                    <li>Heterakis gallinarum</li>
+                </ul>
+
+                <h3>4. LIFE CYCLE PATTERNS</h3>
+                <p>Nematodes may have:</p>
+                
+                <h4>1. Direct Life Cycle (Monoxenous)</h4>
+                <ul>
+                    <li>No intermediate host</li>
+                    <li>Infective stage usually L3 larva</li>
+                    <li>Example: Haemonchus contortus</li>
+                </ul>
+                
+                <h4>2. Indirect Life Cycle (Heteroxenous)</h4>
+                <ul>
+                    <li>Require intermediate host (insects, mollusks)</li>
+                    <li>Example: Dirofilaria immitis (mosquito vector)</li>
+                </ul>
+
+                <h3>5. PATHOGENESIS</h3>
+                <p>Nematodes cause disease by:</p>
+                <ul>
+                    <li>Blood sucking → anemia (e.g., Haemonchus contortus)</li>
+                    <li>Mechanical obstruction (e.g., Ascaridia galli)</li>
+                    <li>Immune-mediated reactions</li>
+                    <li>Toxin release</li>
+                </ul>
+                
+                <h4>Clinical Signs</h4>
+                <ul>
+                    <li>Diarrhea</li>
+                    <li>Weight loss</li>
+                    <li>Bottle jaw (hypoproteinemia)</li>
+                    <li>Coughing (lungworms)</li>
+                    <li>Poor productivity</li>
+                </ul>
+
+                <h3>6. DIAGNOSIS</h3>
+                <p>Diagnosis includes:</p>
+                <ul>
+                    <li>Fecal examination (flotation, sedimentation)</li>
+                    <li>McMaster egg counting technique</li>
+                    <li>Larval culture</li>
+                    <li>Blood examination (microfilariae)</li>
+                    <li>Postmortem findings</li>
+                </ul>
+
+                <h3>7. ECONOMIC IMPORTANCE</h3>
+                <p>In countries like Pakistan, especially in small ruminants, gastrointestinal nematodes significantly reduce meat and milk production. As you are involved in veterinary teaching and research, this topic is highly important for DVM students and field veterinarians dealing with livestock production systems.</p>
+                
+                <p>Economic losses occur due to:</p>
+                <ul>
+                    <li>Reduced weight gain</li>
+                    <li>Decreased fertility</li>
+                    <li>Treatment costs</li>
+                    <li>Mortality</li>
+                </ul>
+
+                <h3>8. CONTROL AND PREVENTION</h3>
+                
+                <h4>A. Anthelmintics</h4>
+                <ul>
+                    <li>Benzimidazoles</li>
+                    <li>Levamisole</li>
+                    <li>Ivermectin</li>
+                </ul>
+                
+                <h4>B. Management Strategies</h4>
+                <ul>
+                    <li>Rotational grazing</li>
+                    <li>Pasture management</li>
+                    <li>Strategic deworming</li>
+                    <li>Vector control (for filarial worms)</li>
+                </ul>
+                
+                <h4>C. Integrated Parasite Management</h4>
+                <ul>
+                    <li>FAMACHA system (for anemia detection)</li>
+                    <li>Selective treatment</li>
+                    <li>Genetic resistance breeding</li>
+                </ul>
+
+                <h3>9. ZOONOTIC IMPORTANCE</h3>
+                <p>Some veterinary nematodes infect humans:</p>
+                <ul>
+                    <li>Toxocara canis → Visceral larva migrans</li>
+                    <li>Ancylostoma caninum → Cutaneous larva migrans</li>
+                </ul>
+                
+                <p>This highlights the One Health importance of nematode control.</p>
+
+            </div>
+        </section>
+
+        <!-- LECTURE #15 -->
+        <section id="lec15" class="lecture-section">
+            <div class="lecture-header" onclick="toggleLecture(15)">
+                <h2>📖 Lecture #15: Haemonchus contortus (Barber Pole Worm)</h2>
+                <div class="meta">Family Trichostrongylidae | Blood-sucking Nematode | Zoom Video Communications</div>
+            </div>
+            <div class="lecture-content" id="content-15">
+                
+                <div class="highlight-box">
+                    <strong>🎯 HAEMONCHUS CONTORTUS:</strong> Most pathogenic GI nematode of small ruminants. Called "barber pole worm" due to spiral appearance of female. Major cause of economic loss in tropical/subtropical regions including Pakistan.
+                </div>
+
+                <h3>1. INTRODUCTION</h3>
+                <p>Haemonchus contortus is one of the most pathogenic gastrointestinal nematodes of small ruminants, particularly sheep and goats. It is commonly called the barber pole worm due to the spiral appearance of the female worm. This parasite is a major cause of economic loss in tropical and subtropical regions, including Pakistan, where climatic conditions favor larval survival.</p>
+
+                <h3>2. TAXONOMY</h3>
+                <ul>
+                    <li>Phylum: Nematoda</li>
+                    <li>Order: Strongylida</li>
+                    <li>Family: Trichostrongylidae</li>
+                    <li>Genus: Haemonchus</li>
+                    <li>Species: H. contortus</li>
+                </ul>
+
+                <h3>3. HOST RANGE</h3>
+                
+                <h4>Primary Hosts</h4>
+                <ul>
+                    <li>Sheep</li>
+                    <li>Goats</li>
+                </ul>
+                
+                <h4>Occasional Hosts</h4>
+                <ul>
+                    <li>Cattle</li>
+                    <li>Deer</li>
+                </ul>
+                
+                <p>Goats are generally more susceptible than sheep due to weaker acquired immunity.</p>
+
+                <h3>4. HABITAT IN HOST</h3>
+                <ul>
+                    <li>Located in the abomasum (true stomach).</li>
+                    <li>Adults attach to the abomasal mucosa and feed on blood.</li>
+                </ul>
+
+                <h3>5. MORPHOLOGY</h3>
+                
+                <h4>Adult Worm</h4>
+                <ul>
+                    <li>Slender, reddish worm.</li>
+                    <li>Length: 2–3 cm.</li>
+                    <li>Buccal cavity contains a lancet used for piercing blood vessels.</li>
+                </ul>
+                
+                <h4>Female</h4>
+                <ul>
+                    <li>White ovaries coiled around blood-filled intestine → barber pole appearance.</li>
+                    <li>Highly prolific (5,000–10,000 eggs/day).</li>
+                </ul>
+                
+                <h4>Male</h4>
+                <ul>
+                    <li>Smaller.</li>
+                    <li>Well-developed copulatory bursa.</li>
+                </ul>
+                
+                <h4>Egg</h4>
+                <ul>
+                    <li>Thin-shelled.</li>
+                    <li>Oval.</li>
+                    <li>Strongyle-type egg (cannot differentiate from other trichostrongyles on flotation).</li>
+                </ul>
+
+                <h3>6. LIFE CYCLE</h3>
+                <p><strong>Type: Direct (Monoxenous)</strong></p>
+                <ol>
+                    <li>Eggs passed in feces.</li>
+                    <li>Hatch to L1 in environment.</li>
+                    <li>Develop to L2.</li>
+                    <li>Infective stage: L3 (sheath retained).</li>
+                    <li>Ingestion during grazing.</li>
+                    <li>Exsheath in rumen.</li>
+                    <li>Develop to L4 in abomasum.</li>
+                    <li>Mature into adults.</li>
+                </ol>
+                
+                <h4>Prepatent Period</h4>
+                <p>Approximately 18–21 days.</p>
+                
+                <h4>Hypobiosis</h4>
+                <ul>
+                    <li>Arrested larval development (L4 stage).</li>
+                    <li>Occurs during unfavorable climatic conditions.</li>
+                    <li>Leads to Type II disease.</li>
+                </ul>
+
+                <h3>7. PATHOGENESIS</h3>
+                <p>H. contortus is a blood-sucking parasite.</p>
+                
+                <h4>Mechanism of Damage</h4>
+                <ul>
+                    <li>Pierces abomasal mucosa.</li>
+                    <li>Causes hemorrhage.</li>
+                    <li>Each worm may remove 0.05 ml blood/day.</li>
+                </ul>
+                
+                <h4>Consequences</h4>
+                <ul>
+                    <li>Severe anemia.</li>
+                    <li>Hypoproteinemia.</li>
+                    <li>Edema (bottle jaw).</li>
+                    <li>Weakness and death in heavy infections.</li>
+                </ul>
+                
+                <p>Young animals are most severely affected.</p>
+
+                <h3>8. CLINICAL SIGNS</h3>
+                
+                <h4>Acute Haemonchosis</h4>
+                <ul>
+                    <li>Pale mucous membranes.</li>
+                    <li>Bottle jaw.</li>
+                    <li>Sudden death.</li>
+                    <li>No diarrhea (important distinguishing feature).</li>
+                </ul>
+                
+                <h4>Chronic Haemonchosis</h4>
+                <ul>
+                    <li>Progressive weight loss.</li>
+                    <li>Reduced milk production.</li>
+                    <li>Poor wool growth.</li>
+                    <li>Weakness.</li>
+                </ul>
+
+                <h3>9. EPIDEMIOLOGY</h3>
+                
+                <h4>Favorable Conditions</h4>
+                <ul>
+                    <li>Warm temperature (20–30°C).</li>
+                    <li>High humidity.</li>
+                    <li>Rainy season.</li>
+                </ul>
+                
+                <p>Larvae survive on pasture and migrate onto grass blades.</p>
+                
+                <p>In Pakistan, peak infection occurs during:</p>
+                <ul>
+                    <li>Monsoon season.</li>
+                    <li>Late summer.</li>
+                </ul>
+
+                <h3>10. DIAGNOSIS</h3>
+                
+                <h4>1. Clinical Examination</h4>
+                <ol>
+                    <li>Pale conjunctiva.</li>
+                    <li>FAMACHA scoring system.</li>
+                </ol>
+                
+                <h4>2. Fecal Examination</h4>
+                <ul>
+                    <li>Strongyle-type eggs.</li>
+                    <li>McMaster egg counting for EPG.</li>
+                </ul>
+                
+                <h4>3. Postmortem</h4>
+                <ul>
+                    <li>Numerous red worms in abomasum.</li>
+                    <li>Pale carcass.</li>
+                    <li>Fluid in body cavities.</li>
+                </ul>
+
+                <h3>11. ECONOMIC IMPORTANCE</h3>
+                <ul>
+                    <li>Reduced weight gain.</li>
+                    <li>Decreased fertility.</li>
+                    <li>High lamb mortality.</li>
+                    <li>Increased treatment costs.</li>
+                    <li>Major issue in small ruminant farming.</li>
+                </ul>
+                
+                <p>In smallholder farming systems, it significantly affects rural livelihoods.</p>
+
+                <h3>12. CONTROL AND PREVENTION</h3>
+                
+                <h4>A. Anthelmintics</h4>
+                <ul>
+                    <li>Benzimidazoles (Albendazole).</li>
+                    <li>Levamisole.</li>
+                    <li>Ivermectin and other macrocyclic lactones.</li>
+                </ul>
+                
+                <h4>B. Strategic Deworming</h4>
+                <ul>
+                    <li>Before rainy season.</li>
+                    <li>Periparturient treatment in ewes.</li>
+                </ul>
+                
+                <h4>C. FAMACHA System</h4>
+                <ul>
+                    <li>Selective treatment based on anemia.</li>
+                </ul>
+                
+                <h4>D. Pasture Management</h4>
+                <ul>
+                    <li>Rotational grazing.</li>
+                    <li>Mixed grazing with cattle.</li>
+                </ul>
+                
+                <h4>E. Genetic Resistance</h4>
+                <ul>
+                    <li>Breeding resistant sheep lines.</li>
+                </ul>
+
+                <h3>13. ANTHELMINTIC RESISTANCE</h3>
+                <p>H. contortus is one of the most drug-resistant nematodes worldwide.</p>
+                
+                <h4>Causes</h4>
+                <ul>
+                    <li>Frequent deworming.</li>
+                    <li>Underdosing.</li>
+                    <li>Mass treatment without monitoring.</li>
+                </ul>
+                
+                <h4>Prevention</h4>
+                <ul>
+                    <li>Targeted selective treatment.</li>
+                    <li>Refugia strategy.</li>
+                    <li>Fecal egg count reduction test (FECRT).</li>
+                </ul>
+
+                <h3>14. IMMUNITY</h3>
+                <ul>
+                    <li>Sheep develop partial immunity after repeated exposure.</li>
+                    <li>Goats develop weaker immunity.</li>
+                    <li>Immunity mainly reduces worm fecundity rather than eliminating infection.</li>
+                </ul>
+
+                <h3>15. PUBLIC HEALTH IMPORTANCE</h3>
+                <p>Not zoonotic.</p>
+                <p>Primarily a veterinary and economic concern.</p>
+                <ul>
+                    <li>Major parasite of sheep and goats in tropical climates.</li>
+                </ul>
+
+                <div class="warning-box">
+                    <strong>⚠️ IMPORTANT:</strong> Nematodes content covered in these 2 lectures (Lectures #14-15). This concludes the Nematodes section of the course.
+                </div>
+
+            </div>
+        </section>
+
         <!-- SUMMARY SECTION -->
         <section id="summary" class="lecture-section">
             <div class="lecture-header" onclick="toggleSummary()">
                 <h2>📊 COMPLETE COURSE SUMMARY</h2>
-                <div class="meta">All 5 Lectures | Key Points for Exam</div>
+                <div class="meta">All 15 Lectures | Key Points for Exam</div>
             </div>
             <div class="lecture-content" id="content-summary">
                 
@@ -1576,10 +2510,8 @@ Back to Dog [via eating infected CNS tissue]
 
         <footer>
             <p><strong>Veterinary Helminthology Study Guide</strong></p>
-            <p>DVM 4th Semester | Session 2024-2029 | Group B | Room 76</p>
-            <p>Dr. Ghulam Murtaza | Helminthology Lectures #1-5</p>
-            <br>
-            <p>🐛 Keep Studying! Send Lecture #6 when ready! 🚀</p>
+            <p>DVM 4th Semester | Session 2024-2029 | Group A+B</p>
+            <p>Dr. Ghulam Murtaza | Helminthology Lectures #1 to 15</p>
         </footer>
     </div>
 
@@ -1591,7 +2523,7 @@ Back to Dog [via eating infected CNS tissue]
         
         function showLecture(num) {
             // Hide all
-            for(let i=1; i<=5; i++) {
+            for(let i=1; i<=15; i++) {
                 document.getElementById('content-' + i).classList.remove('active');
             }
             document.getElementById('content-summary').classList.remove('active');
@@ -1610,7 +2542,7 @@ Back to Dog [via eating infected CNS tissue]
         
         function showSummary() {
             // Hide all lectures
-            for(let i=1; i<=5; i++) {
+            for(let i=1; i<=15; i++) {
                 document.getElementById('content-' + i).classList.remove('active');
             }
             
